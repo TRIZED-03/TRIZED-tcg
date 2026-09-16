@@ -1,0 +1,2 @@
+# TRIZED-tcg
+Website kinda
